@@ -72,7 +72,7 @@
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(379, 84);
             this.button4.TabIndex = 3;
-            this.button4.Text = "Nam ơi là nam ơii";
+            this.button4.Text = "Nam dem trai";
             this.button4.UseVisualStyleBackColor = true;
             // 
             // button5
